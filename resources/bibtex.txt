@@ -1,6 +1,6 @@
-@article{liu2022countr,
+@inproceedings{liu2022countr,
   author = {Chang, Liu and Yujie, Zhong and Andrew, Zisserman and Weidi, Xie},
   title = {ReCo: Retrieve and Co-segment for Zero-shot Transfer},
-  journal = {arXiv:2208.13721},
+  booktitle={British Machine Vision Conference (BMVC)},
   year = {2022}
 }
